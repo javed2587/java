@@ -5,8 +5,7 @@ I'm looking for help with angular and java
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javed-iqbal-a74877114/) 
-https://mail.google.com/mail/u/0/?ogbl#inbox
-javediqbalslic5@gmail.com
+
 
 
 # 💻Tech Stack
